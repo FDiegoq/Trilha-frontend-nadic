@@ -5,7 +5,7 @@ import Main from './components/Main'
 
 function App() {
   return (
-    <div className="bg-custom min-h-screen">
+    <div className="bg-custom min-h-screen ">
       <Header />
       <Main/>
     </div>
