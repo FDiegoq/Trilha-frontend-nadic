@@ -1,7 +1,7 @@
 const Header = () =>{
     return (
-        <header className="p-8 text-white flex justify-between items-center">
-            <h1 className="font-bold text-2xl hover:text-violet-950 transition-colors cursor-pointer">PlaytoWin</h1>
+        <header className="p-8 text-white flex justify-between items-center px-24">
+            <h2 className="font-bold text-2xl hover:text-violet-950 transition-colors cursor-pointer">PlaytoWin</h2>
             <nav>
                 <ul className="flex gap-4">
                     <li className="text-md hover:text-violet-950 transition-colors"><a href="/">Home</a></li>
